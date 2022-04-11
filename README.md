@@ -10,10 +10,10 @@ HTML to jedan z trzech technologi używanych w budowie aplikacji internetowych, 
 - JavaScript
 ###Podstawowe tagi:
 
--<p> paragraf
--<a> link do kolejnej strony
--<h1> nagłówek
--<blockquote> cytat
--<img> w ten sposób wstawiam obrazek
+- <p> paragraf
+- <a> link do kolejnej strony
+- <h1> nagłówek
+- <blockquote> cytat
+- <img> w ten sposób wstawiam obrazek
   
   
