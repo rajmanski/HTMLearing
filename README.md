@@ -13,7 +13,7 @@ HTML to jedan z trzech technologi używanych w budowie aplikacji internetowych, 
 - <p> paragraf
 - <a> link do kolejnej strony
 - <h> nagłówek
-- <blockquote> cytat
-- "<img>" w ten sposób wstawiam obrazek
+- (blockquote) cytat
+- "img" w ten sposób wstawiam obrazek
   
   
