@@ -17,6 +17,8 @@ HTML to jedna z trzech technologii używanych w budowie aplikacji internetowych,
 - `<img>` w ten sposób wstawiam obrazek
 - `<em>` kursywa
 - `<strong>` bold (pogrubienie)
+- `<hr>` tworzy sekcję na stronie (tworzy kreskę przez całą stronę)
+-`<div>` dzieli stronę na logiczne seksje
   
   -------------------------------------------------
   
