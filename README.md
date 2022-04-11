@@ -8,7 +8,7 @@ In this repository I will learing how to use HTML...
 HTML to jedan z trzech technologi używanych w budowie aplikacji internetowych, oprócz jego to:
 - CSS
 - JavaScript
-###Podstawowe tagi:
+### Podstawowe tagi$$$:
 
 - <p> paragraf
 - <a> link do kolejnej strony
