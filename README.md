@@ -30,3 +30,11 @@ Należy pamiętać, że większośc tagów trzeba zamknąć, natomiast istnieją
 W znaczniku `<head>` umieszczamy informacje o stronie, takie jak tytuł oraz zamieszczamy linki od plików .css oraz .js
 W znaczniku `<body>` znajduje się ciało strony, czyli wszystko to co widzimy, otwierając ją w przeglądarce
 
+------------------------------------------------------
+
+### ID i CLASS
+Podczas stylowania strony, często nadajemy atrybuty takie jak id i class.
+- ID nadajemy, jeżeli rzecz na stronie występuje tylko raz, jest unikalna
+- CLASS -> tego atrybutu używamy, gdy stylujemy tag, który często potwarza się w naszym dokumencie.
+
+Obydwa atrybuty używa sie zarówno z CSS jak i JavaScript.
